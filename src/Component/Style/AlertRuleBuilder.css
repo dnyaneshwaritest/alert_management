@@ -1,0 +1,75 @@
+.rule-builder-div{
+    width: 100%;
+    background-color: white;
+    padding-top: 1.5%; 
+    padding-bottom: 1.5%;
+}
+.rule-builder-lbl{
+    color:#344054;
+    font-size: 22px;
+    padding-left: 2%;
+   
+}
+
+.radio-btn-div{
+    text-align: center;
+    margin-top: 1%;
+    width: 100%;
+}
+.radio-btn{
+    font-size: 16px;
+    color: #16161E;
+    border-color:#16161E ;
+} 
+
+.rule-builder-form{
+    width: 92%;
+    height: 350px;
+    background-color: white;
+    padding: 2%;
+    margin: 1% 2%
+   
+}
+.rule-frm-lbl{
+    color: #000;
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: 700;
+    /* padding-left:-50px; */
+    
+    
+}
+.rule-form{
+    width: 40%;
+}
+
+.frm-nxt-btn{
+    border-radius: 6px;
+    background: #384CFF;
+    margin-top: 3%;
+    color: white;
+}
+
+.frm-rule-btn{
+    border-radius: 6px;
+    opacity: 0.8;
+    float: right;
+    
+/* background: #ABB1CD; */
+}
+.rule-builder-back-btn{
+    float: right;
+    height: 30px;
+    border-radius: 6px;
+    background: #384CFF;
+    margin-right: 2%;
+}
+.rule-builder-steps{
+    padding-left: 16%;
+    padding-right: 16%;
+    margin-top: 1%;
+}
+
+
+
+  

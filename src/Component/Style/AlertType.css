@@ -1,0 +1,17 @@
+.alert-type-lbl
+{
+    color: #000;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.alt-type-table{
+   
+    margin-right: -26px;
+    /* padding-right: -66px; */
+    padding-left: 26px ;
+    height: 500px;
+
+}
+ 

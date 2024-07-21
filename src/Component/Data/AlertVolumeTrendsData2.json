@@ -1,0 +1,122 @@
+[
+    { 
+        "Month": "Jan",
+        "value": 70,
+        "data":55, 
+        "mdata": 35,
+        "tdata": 18, 
+        "vdata": 11,
+        "vtdata": 6
+    },
+
+    { 
+        "Month": "Feb", 
+        "value": 85, 
+        "data": 45, 
+        "mdata": 31, 
+        "tdata": 16, 
+        "vdata": 10,
+        "vtdata":4 
+    },
+
+    {
+        "Month": "Mar", 
+        "value": 60, 
+        "data":50, 
+        "mdata": 28, 
+        "tdata": 14,
+        "vdata": 9,
+        "vtdata":3  
+    },
+
+    { 
+        "Month": "Apr", 
+        "value": 76, 
+        "data":43, 
+        "mdata": 25, 
+        "tdata": 16,
+        "vdata": 8,
+        "vtdata": 5
+    },
+
+    { 
+        "Month": "May", 
+        "value": 60, 
+        "data": 40, 
+        "mdata": 20, 
+        "tdata": 18 ,
+        "vdata":7,
+        "vtdata":3
+    },
+    
+    {
+         "Month": "Jun", 
+         "value": 83, 
+         "data": 55, 
+         "mdata": 25, 
+         "tdata": 12,
+         "vdata" :11,
+         "vtdata": 1 
+         
+    },
+
+    { 
+        "Month": "Jul", 
+        "value": 79, 
+        "data": 58, 
+        "mdata" : 28, 
+        "tdata": 15,
+        "vdata": 9,
+        "vtdata": 3 
+    },
+
+    { 
+        "Month": "Aug", 
+        "value": 68, 
+        "data": 55, 
+        "mdata" : 31, 
+        "tdata": 16,
+        "vdata": 7,
+        "vtdata" :4
+    },
+
+    { 
+        "Month": "Sep", 
+        "value": 79, 
+        "data": 50, 
+        "mdata" : 25, 
+        "tdata": 18,
+        "vdata" :8,
+        "vtdata": 2
+    },
+
+    { 
+        "Month": "Oct", 
+        "value": 85, 
+        "data": 47, 
+        "mdata" : 20 , 
+        "tdata": 14,
+        "vdata": 9,
+        "vtdata":1
+    },
+
+    { 
+        "Month": "Nov", 
+        "value": 90, 
+        "data": 51, 
+        "mdata": 25, 
+        "tdata": 15,
+        "vdata":11,
+        "vtdata": 4
+    },
+
+    { 
+        "Month": "Dec", 
+        "value": 83, 
+        "data": 55, 
+        "mdata" : 30, 
+        "tdata": 18,
+        "vdata": 10,
+        "vtdata": 6 
+    }
+  ]

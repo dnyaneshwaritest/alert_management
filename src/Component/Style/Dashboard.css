@@ -1,0 +1,127 @@
+.dashboard-label{
+    color: #383874;
+    margin: 30px;
+   font-family: Poppins;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.label-div{
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+.dashboard-div{
+    /* margin:0px; */
+    background-color: #F6F7FB;
+}
+
+.label-btn{
+    float: right;
+    background-color: #384CFF;
+    color: white;
+}
+
+.manage-workflow-btn{
+    float: right;
+    margin-left: 20px;
+    margin-right: 40px;
+    background-color: #DDE1F8;
+    color: #383874;
+}
+.dashboard-alert-card{
+    margin-left: 30px;
+    margin-bottom: 15px;
+    height: 76px;
+    /* width: 290px;
+    height: 96px; */
+    /* height: 60px; */
+    
+}
+.crn-div{
+    width: 40px;
+    height: 40px;
+    background-color: #66C8FF;
+    border-radius: 10px;
+    text-align:center;
+    margin-top: -7px;   
+}
+.crn-icon{
+    color: white;
+    margin-top: 9px;
+}
+.rise-icon{
+    width: 40px;
+    height: 40px;
+    background-color: #8676FF;
+    border-radius: 10px;
+    text-align:center;
+    margin-top: -7px; 
+}
+.card-label{
+    float: right;
+    margin-top: -50px;
+    color: #383874;
+    font-family: Roboto;
+    font-size: 13px;
+    font-weight: 400;
+}
+
+.dash-avr-tm-crd{
+    /* width: 694px; */
+height: 298px;
+margin-left: 25px;
+margin-bottom: 18px;
+}
+
+.dash-avr-tm-lbl{
+    color: #383874;
+font-family: "Open Sans";
+font-size: 16px;
+/* font-style: normal; */
+font-weight: 700;
+
+}
+
+.dash-avr-tm-lbl p{
+    font-family: Roboto;
+    font-size: 12px;
+    margin-top: 0px;
+    opacity: 0.6;
+}
+.dash-team{
+   padding-left:32px;
+    color: #383874;
+    font-family: Roboto;
+    font-size: 17px;
+}
+
+.team-crd{
+    margin-top: 40px;
+    color: #383874;
+    font-family: Roboto;
+    font-weight: 500;
+    
+}
+.alt-col{
+    font-size: 12px;
+    font-weight: 500;
+    margin-right: 12px;
+    
+}
+.team-crd-lbl{
+    color: #383874;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.alt-btn{
+    font-size: 7px;
+    border-radius: 8px;
+    margin-bottom: 8px;
+    width: 40px;
+    height: 20px;
+    padding-left: 9px;
+}

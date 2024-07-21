@@ -1,0 +1,14 @@
+[
+    { "Month": "Jan", "value": 50},
+    { "Month": "Feb", "value": 75 },
+    { "Month": "Mar", "value": 60 },
+    { "Month": "Apr", "value": 75 },
+    { "Month": "May", "value": 70 },
+    { "Month": "Jun", "value": 83 },
+    { "Month": "Jul", "value": 85 },
+    { "Month": "Aug", "value": 68 },
+    { "Month": "Sep", "value": 79 },
+    { "Month": "Oct", "value": 85 },
+    { "Month": "Nov", "value": 50 },
+    { "Month": "Dec", "value": 83 }
+  ]

@@ -1,0 +1,14 @@
+[
+    { "Month": "Jan", "value": 50, "data":65},
+    { "Month": "Feb", "value": 85, "data": 45 },
+    { "Month": "Mar", "value": 60, "data":70 },
+    { "Month": "Apr", "value": 45, "data":50},
+    { "Month": "May", "value": 60, "data": 40 },
+    { "Month": "Jun", "value": 33, "data": 55 },
+    { "Month": "Jul", "value": 75, "data": 70 },
+    { "Month": "Aug", "value": 68, "data": 55 },
+    { "Month": "Sep", "value": 79, "data": 88 },
+    { "Month": "Oct", "value": 85, "data": 50 },
+    { "Month": "Nov", "value": 50, "data":68 },
+    { "Month": "Dec", "value": 83, "data": 55 }
+  ]

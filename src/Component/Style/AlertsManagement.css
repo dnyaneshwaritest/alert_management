@@ -1,0 +1,137 @@
+.main-div{
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    height: 100;
+    background-color: rgb(244, 244, 249);
+}
+.alert-rule-btn{
+    float: right;
+    margin-top: -40px;
+    margin-right: 22px;
+    background-color:#384CFF;
+    color: white;
+}
+
+.alert-title{
+    margin-top:0px;
+    margin-left: 25px;
+    padding-top: 20px;
+    color: #383874;
+}
+.resource-div{
+    margin-left: 26px;
+    
+}
+.resource-label{
+    margin-right: 136px;
+}
+.resource-select{
+    margin-top: 10px;
+    margin-right: 87px;
+    /* border-color: blue; */
+}
+
+.table-div{
+    width: 96%;
+    height: 40%;
+    margin-left: 2%;
+    background-color: white;
+}
+
+.table-tittle-div{
+    margin:20px;
+    /* margin-top: 25px; */
+    padding-top: 20px;
+   
+}
+
+.table-label{
+    margin-right: 30px;
+    color: #383874;
+}
+
+.tabel-search{
+    width: 500px;
+    float: right;
+    margin-right: 20px;
+}
+ .bulk-action-btn{
+    float: right;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(227, 227, 254);
+    font-weight: 500;
+ }
+
+ .timeframe-dropdown{
+    float: right;
+    margin-top: -40px;
+    margin-right: 22px;
+    border: 1px solid rgb(124, 124, 192);
+    border-radius: 6px;
+    
+ }
+
+ ::placeholder{
+    color: blue;
+ }
+ .monitor-data-filter{
+    color: blue;
+    background-color: transparent;
+    border: 1px solid rgb(124, 124, 192);
+    /* width: 60px; */
+    margin-right: 10px;
+    
+ }
+ .action-dropdown{
+    color: "#8A8A98";
+ }
+
+.action-dropdown:hover{
+    color: "#383874";
+}
+
+.monitoralert-breadcrumb{
+    float: right;
+/* Headline/H5 */
+font-family: Poppins;
+font-size: 18px;
+font-style: normal;
+margin-top: 20px;
+margin-right: 20px;
+/* font-weight: 500; */
+/* line-height: 36px;  */
+}
+:where(.css-dev-only-do-not-override-djtmh8).ant-breadcrumb li:last-child{
+    color: #384CFF;
+}
+
+:where(.css-dev-only-do-not-override-djtmh8).ant-breadcrumb a:hover{
+    background-color: transparent;
+    color:#383874
+}
+
+:where(.css-dev-only-do-not-override-djtmh8).ant-btn-default:not(:disabled):not(.ant-btn-disabled):hover{
+    color: #383874;
+}
+
+.monitor-allalt-filter-data{
+   /* display: inline; */
+   display: flex;
+   margin-bottom: 3px;
+    /* overflow: hidden; */
+    /* white-space: nowrap; */
+}
+
+.tckt-btn{
+    float: right;
+    justify-content: center;
+    align-items: center;
+    background: #384CFF;
+    color: white;
+    font-size: 16px;
+  
+   
+    
+}

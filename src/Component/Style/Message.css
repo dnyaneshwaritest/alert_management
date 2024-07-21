@@ -1,0 +1,12 @@
+.msg-save-rule-btn{
+    border-radius: 6px;
+    background: #384CFF;
+    /* font-family: "Open Sans"; */
+    font-size: 14px;
+    /* font-weight: 700; */
+    float: right;
+    color: #FFF;
+}
+.msg-exp-card{
+    border-radius: 1px solid black;
+}

@@ -1,0 +1,111 @@
+[
+    {
+        "ticket": 102915,
+        "summary":"Added SW user as CC user again",
+        "assignee": "Accept",
+        "creator": "System Admin",
+        "severity":"Medium",
+        "category": "null",
+        "site":"Central Server",
+        "created":"15-03-2024",
+        "updated": "15-03-2024",
+        "action":"MoreOutlined"
+    },
+    {
+        "ticket": 102915,
+        "summary":"Added SW user as CC user",
+        "assignee": "Accept",
+        "creator": "notification@synectiks.com",
+        "severity":"Low",
+        "category": "null",
+        "site":"Central Server",
+        "created":"15-03-2024",
+        "updated": "15-03-2024",
+        "action":"MoreOutlined"
+    },
+    {
+        "ticket": 102915,
+        "summary":"CC user added email",
+        "assignee": "Accept",
+        "creator": "notification@synectiks.com",
+        "severity":"Medium",
+        "category": "null",
+        "site":"Central Server",
+        "created":"15-03-2024",
+        "updated": "15-03-2024",
+        "action":"MoreOutlined"
+    },
+    {
+        "ticket": 102915,
+        "summary":"Message meets Alert condition",
+        "assignee": "Accept",
+        "creator": "System Admin",
+        "severity":"High",
+        "category": "null",
+        "site":"Central Server",
+        "created":"15-03-2024",
+        "updated": "15-03-2024",
+        "action":"MoreOutlined"
+    },
+    {
+        "ticket": 102915,
+        "summary":"Ticket for Alert 77019",
+        "assignee": "Accept",
+        "creator": "System Admin",
+        "severity":"Low",
+        "category": "null",
+        "site":"Central Server",
+        "created":"15-03-2024",
+        "updated": "15-03-2024",
+        "action":"MoreOutlined"
+    },
+    {
+        "ticket": 102915,
+        "summary":"Message meets Alert condition",
+        "assignee": "Accept",
+        "creator": "System Admin",
+        "severity":"High",
+        "category": "null",
+        "site":"Central Server",
+        "created":"15-03-2024",
+        "updated": "15-03-2024",
+        "action":"MoreOutlined"
+    },
+    {
+        "ticket": 102915,
+        "summary":"Test back for portal URL",
+        "assignee": "Accept",
+        "creator": "System Admin",
+        "severity":"Low",
+        "category": "null",
+        "site":"notification@synectiks.com",
+        "created":"15-03-2024",
+        "updated": "15-03-2024",
+        "action":"MoreOutlined"
+    },
+    {
+        "ticket": 102915,
+        "summary":"Added SW user as CC user again",
+        "assignee": "Accept",
+        "creator": "System Admin",
+        "severity":"Medium",
+        "category": "null",
+        "site":"Central Server",
+        "created":"15-03-2024",
+        "updated": "15-03-2024",
+        "action":"MoreOutlined"
+    },
+    {
+        "ticket": 112915,
+        "summary":"New ticket for URL test",
+        "assignee": "Accept",
+        "creator": "notiication@synectiks.com",
+        "severity":"Medium",
+        "category": "null",
+        "site":"Central Server",
+        "created":"15-03-2024",
+        "updated": "15-03-2024",
+        "action":"MoreOutlined"
+    }
+
+]

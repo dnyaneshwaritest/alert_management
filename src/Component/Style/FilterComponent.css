@@ -1,0 +1,29 @@
+.filter-div{
+   display: inline-flex;
+   justify-content: flex-start !important;
+    text-align: left !important; 
+     /* min-width: 0; */
+    max-width: 900px; 
+    /* color: black; */
+}
+.infra-label{
+    color: #383874;
+    
+    
+}
+.infra-div{
+    margin-top: 65px;
+    text-align: center;
+   
+}
+.infra-dropdown{
+    margin-right: 40px;
+    /* width: 400px; */
+    /* margin-top: 25px */
+}
+
+.filter-btn{
+    margin-right: 40px;
+    text-align: center;
+    /* margin-top:40px; */
+}

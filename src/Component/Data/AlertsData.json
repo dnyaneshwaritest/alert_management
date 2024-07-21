@@ -1,0 +1,37 @@
+[
+    {
+        "name":"Percentage CPU",
+        "condition":"Percentage CPU GreaterOrEqual 0",
+        "status":"Enable",
+        "targetresource":"kub-master-1467834",
+        "action":"MoreOutlined"
+    },
+    {
+        "name":"Disk Write Bytes",
+        "condition":"Disk Write Bytes alert is greater than 10GB",
+        "status":"Enable",
+        "targetresource":"DB Test",
+        "action":"MoreOutlined"
+    },
+    {
+        "name":"Network Out",
+        "condition":"Network Out greater than 33333",
+        "status":"Enable",
+        "targetresource":"Ser08-Test-11",
+        "action":"MoreOutlined"
+    },
+    {
+        "name":"Percentage CPU",
+        "condition":"Percentage CPU greater than 17",
+        "status":"Enable",
+        "targetresource":"stage server",
+        "action":"MoreOutlined"
+    },
+    {
+        "name":"Network In",
+        "condition":"Network In greater than 33333",
+        "status":"Enable",
+        "targetresource":"Ser08-Test-11",
+        "action":"MoreOutlined"
+    }
+]
